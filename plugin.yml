@@ -1,0 +1,8 @@
+name: fixterticket
+main: com.fixterjake.fixterticket.FixterTicket
+version: 0.8.2
+author: fixterjake
+commands:
+  ticket:
+    description: Ticket Plugin
+    usage: /ticket
